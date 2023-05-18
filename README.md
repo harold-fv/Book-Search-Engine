@@ -20,7 +20,7 @@
   
   2. Git clone https://github.com/harold-fv/Book-Search-Engine.
   
-  3. Next, run the following on the command line, npm i .  
+  3. Next, run the following on the command line, npm run install .  
   
   4. After you install the package ,from the command line type  "npm run develop" to run the program.
   
@@ -28,6 +28,12 @@
 
 A book search engine is a specialized search tool or website designed specifically for finding books. It allows users to search for books based on various criteria such as title, author, genre, keywords, or ISBN. These search engines provide a comprehensive database of books from different sources, including online bookstores, libraries, and publishers.
   
-  
   ## License
   This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+  
+  ## Contributing
+  Many thanks to my Tutors and Bryan and Shawn for helping me on developing this application.
+
+  ## Questions
+  For any questions, please contact undefined at haroldgonzales@yahoo.com. Visit my github link 
+  https://github.com/harold-fv to view more of my work
